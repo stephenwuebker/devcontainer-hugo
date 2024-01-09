@@ -25,7 +25,9 @@
 				"donjayamanne.githistory",
 				"GitLab.gitlab-workflow",
 				"esbenp.prettier-vscode",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"ms-azuretools.vscode-azurefunctions",
+				"ms-azuretools.vscode-azurestaticwebapps"
 			]
 		}
 	},
